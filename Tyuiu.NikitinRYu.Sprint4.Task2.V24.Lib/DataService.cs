@@ -10,7 +10,7 @@ namespace Tyuiu.NikitinRYu.Sprint4.Task2.V24.Lib
 
             foreach (int num in array)
             {
-                if (num % 2 != 0) // проверка на нечётность
+                if (num % 2 != 0)
                 {
                     sum += num;
                 }
